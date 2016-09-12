@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiProxy</string>
+    <string name="textView_host">代理主机:</string>
+    <string name="textView_port">代理端口:</string>
+    <string name="button_connect">连接</string>
+    <string name="button_reset">重置</string>
+</resources>

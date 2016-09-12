@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WifiProxy</string>
+    <string name="textView_host">Proxy hostname:</string>
+    <string name="textView_port">Proxy port:</string>
+    <string name="button_connect">connect</string>
+    <string name="button_reset">reset</string>
+</resources>
