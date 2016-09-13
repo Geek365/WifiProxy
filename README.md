@@ -1,5 +1,5 @@
 ### WifiProxy
-WiFi环境下的HTTP代理
+WiFi环境下的HTTP代理，兼容Android4 - Android5，Android6还未尝试
 
 ### 下载地址
 <img src="https://github.com/abcmmee/WifiProxy/raw/master/picture/360.png" width="200px" height="200px">
