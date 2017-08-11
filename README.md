@@ -1,12 +1,9 @@
 ## 公告
+2017年8月11日:已经有人已经解决Android6.0失效的这个问题了, https://github.com/JarenChow/WiFiProxySwitcher
 2016年9月25日:Android6.0失效
 
 ### WifiProxy
 WiFi环境下的HTTP代理，兼容Android4 - Android5，Android6还未尝试
-
-### 下载地址
-<img src="https://github.com/abcmmee/WifiProxy/raw/master/picture/360.png" width="200px" height="200px">
-https://yunpan.cn/ckZCvYiicmHAf  访问密码 0e91
 
 ### 使用说明
 #### 连接
