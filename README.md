@@ -1,5 +1,5 @@
 ## 公告
-2017年8月11日:已经有人已经解决Android6.0失效的这个问题了, https://github.com/JarenChow/WiFiProxySwitcher<br>
+2017年8月11日:已经有人解决Android6.0失效的这个问题了, https://github.com/JarenChow/WiFiProxySwitcher<br>
 2016年9月25日:Android6.0失效
 
 ### WifiProxy
